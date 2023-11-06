@@ -41,6 +41,7 @@ test = [  # Optional dependencies to support automated testing
 ]
 types = [  # Optional dependencies to support type checking
     "mypy",
+    "types-Pillow",
 ]
 
 [tool.black]
